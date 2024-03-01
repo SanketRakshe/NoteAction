@@ -1,4 +1,11 @@
-Record voice notes and get a transcript, summary, and action items.
+<a href="https://usenotesgpt.com/">
+  <img alt="NotesGPT – AI-powered voice note taking in seconds." src="/public/images/noteActBanner.png">
+  <h1 align="center">noteAct</h1>
+</a>
+
+<p align="center">
+  Generate action items from your notes in seconds. Powered by Convex, Together.ai, and Whisper.
+</p>
 
 ## Tech Stack
 

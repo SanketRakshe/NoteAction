@@ -22,7 +22,13 @@ const RecordedfileItemCard = ({
     >
       <div className="flex w-fit items-center gap-[23px]">
         <div className="hidden items-center justify-center rounded-[50%] bg-dark p-2.5 md:flex ">
-          
+          <img
+            src="/icons/file_symbol.svg"
+            width={20}
+            height={20}
+            alt="file"
+            className="h-5 w-5 md:h-[20px] md:w-[20px]"
+          />
         </div>
         <h1
           className="text-[17px] font-light text-dark md:text-xl lg:text-2xl"

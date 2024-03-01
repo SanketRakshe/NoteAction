@@ -1,5 +1,5 @@
-<a href="https://usenotesgpt.com/">
-  <img alt="NotesGPT – AI-powered voice note taking in seconds." src="/public/images/noteActBanner.png">
+<a href="https://noteact.vercel.app/">
+  <img alt="NotesGPT – AI-powered voice note taking in seconds." src="/public/images/noteActBanner.PNG">
   <h1 align="center">noteAct</h1>
 </a>
 
